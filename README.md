@@ -9,7 +9,7 @@ Sabattical Diary (2022/4-9) in Shenzhen
 - [サバティカル日記（4：サバティカル延期から再開）](https://note.com/akita11/n/n984411af4c56)
 
 ## 日記
-- [2022年4月](diary2204.md)
+- 2022年4月: [日常](diary2204.md) / [研究](research2204.md)
 
 ## 大まかなスケジュール
 - 2022/4/11月: 成田→深セン
