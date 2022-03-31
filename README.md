@@ -9,6 +9,9 @@ Sabattical Diary (2022/4-9) in Shenzhen
 - [サバティカル日記（4：サバティカル延期から再開）](https://note.com/akita11/n/n984411af4c56)
 
 ## 日記
+
+※細々としたことは、[Twitter](https://twitter.com/akita11)や[Facebook](https://www.facebook.com/akita11)や[Intragram](https://www.instagram.com/akita11_/)にも投稿するかもしれませんが、この日記にもまとめていく予定です。
+
 - 2022年4月: [日常](diary2204.md) / [研究](research2204.md)
 
 ## 大まかなスケジュール
