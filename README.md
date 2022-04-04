@@ -1,7 +1,7 @@
 # SZdiary
 Sabattical Diary (2022/4-9) in Shenzhen
 
-## Prolog
+## Prologue
 
 - [サバティカル日記（1：きっかけ）](https://note.com/akita11/n/n52348f0d092b)
 - [サバティカル日記（2：申請からの手続き）](https://note.com/akita11/n/n8bd2e25d5b19)
