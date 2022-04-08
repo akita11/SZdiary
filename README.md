@@ -8,16 +8,21 @@ Sabattical Diary (2022/4-9) in Shenzhen
 - [サバティカル日記（3：ビザの申請）](https://note.com/akita11/n/n400bafc51eb4)
 - [サバティカル日記（4：サバティカル延期から再開）](https://note.com/akita11/n/n984411af4c56)
 
+
 ## 日記
 
-※細々としたことは、[Twitter](https://twitter.com/akita11)や[Facebook](https://www.facebook.com/akita11)や[Intragram](https://www.instagram.com/akita11_/)にも投稿するかもしれませんが、この日記にもまとめていく予定です。
+たぶん内容が多岐にわたるので、日常生活、研究（電子工作を含む）、COVID19関連、に分けて書いていきます。
 
-- 2022年4月: [日常](diary/diary2204.md) / [研究](diary/research2204.md) / [コロナ関連](diary/covid19_2204.md)
+細々としたことは[Twitter](https://twitter.com/akita11)（主に技術ネタ）や[Facebook](https://www.facebook.com/akita11)（主に日常ネタ）や[Intragram](https://www.instagram.com/akita11_/)（主に食事ネタ）にも投稿するかもしれませんが、この日記にもまとめていく予定です。
+
+- 2022年4月
+-- 第2週: [日常](diary/diary/2204-2.md) / [研究](diary/research/2204-2.md) / [コロナ関連](diary/covid19/2204-2.md)
 
 ## 大まかなスケジュール
 - 2022/4/11月: 成田→深セン
 - 2022/4/11月-5/1日(予定): 検疫隔離
 - 2022/9中旬: 帰国予定
+
 
 ## 滞在先
 
