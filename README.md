@@ -17,6 +17,7 @@ Sabattical Diary (2022/4-9) in Shenzhen
 
 - 2022年4月
   - 第2週: [日常](diary/diary/2204-2.md) / [研究](diary/research/2204-2.md) / [コロナ関連](diary/covid19/2204-2.md)
+  - 第3週: [日常](diary/diary/2204-3.md) / [研究](diary/research/2204-3.md) / [コロナ関連](diary/covid19/2204-3.md)
 
 ## 大まかなスケジュール
 - 2022/4/11月: 成田→深セン
