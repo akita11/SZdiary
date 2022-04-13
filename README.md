@@ -16,8 +16,9 @@ Sabattical Diary (2022/4-9) in Shenzhen
 細々としたことは[Twitter](https://twitter.com/akita11)（主に技術ネタ）や[Facebook](https://www.facebook.com/akita11)（主に日常ネタ）や[Intragram](https://www.instagram.com/akita11_/)（主に食事ネタ）にも投稿するかもしれませんが、この日記にもまとめていく予定です。（ハッシュタグ： #SZdiary ）
 
 - 2022年4月
-  - 第2週: [日常](diary/diary/2204-2.md) / [研究](diary/research/2204-2.md) / [コロナ関連](diary/covid19/2204-2.md)
-  - 第3週: [日常](diary/diary/2204-3.md) / [研究](diary/research/2204-3.md) / [コロナ関連](diary/covid19/2204-3.md)
+  - 第2週(22/04/08-04/09): [日常](diary/diary/2204-2.md) / [研究](diary/research/2204-2.md) / [コロナ関連](diary/covid19/2204-2.md)
+  - 第3週(22/04/10-04/16): [日常](diary/diary/2204-3.md) / [研究](diary/research/2204-3.md) / [コロナ関連](diary/covid19/2204-3.md)
+  - 第4週(22/04/17-04/23): [日常](diary/diary/2204-4.md) / [研究](diary/research/2204-4.md) / [コロナ関連](diary/covid19/2204-4.md)
 
 ## 大まかなスケジュール
 - 2022/4/11月: 成田→深セン
