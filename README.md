@@ -11,7 +11,7 @@ Sabattical Diary (2022/4-9) in Shenzhen
 
 ## 日記
 
-たぶん内容が多岐にわたるので、日常生活、研究（電子工作を含む）、COVID19関連、に分けて書いていきます。
+たぶん内容が多岐にわたるので、日常生活、研究（電子工作を含む）、COVID19関連、中国語勉強、に分けて書いていきます。
 
 細々としたことは[Twitter](https://twitter.com/akita11)（主に技術ネタ）や[Facebook](https://www.facebook.com/akita11)（主に日常ネタ）や[Intragram](https://www.instagram.com/akita11_/)（主に食事ネタ）にも投稿するかもしれませんが、この日記にもまとめていきます。（ハッシュタグ： #SZdiary ）感想や質問、間違いの指摘などは、issueからぜひお寄せください。
 
@@ -20,7 +20,7 @@ Sabattical Diary (2022/4-9) in Shenzhen
   - 第3週(22/04/10-04/16): [日常](diary/diary/2204-3.md) / [研究](diary/research/2204-3.md) / [コロナ関連](diary/covid19/2204-3.md)
   - 第4週(22/04/17-04/23): [日常](diary/diary/2204-4.md) / [研究](diary/research/2204-4.md) / [コロナ関連](diary/covid19/2204-4.md)
   - 第5週(22/04/24-04/30): [日常](diary/diary/2204-5.md) / [研究](diary/research/2204-5.md) / [コロナ関連](diary/covid19/2204-5.md)
-  - 第6週(22/05/01-05/07): [日常](diary/diary/2205-1.md) / [研究](diary/research/2205-1.md) / [コロナ関連](diary/covid19/2205-1.md)
+  - 第6週(22/05/01-05/07): [日常](diary/diary/2205-1.md) / [研究](diary/research/2205-1.md) / [コロナ関連](diary/covid19/2205-1.md) / [中国語勉強](diary/chiinese/2205-1.md)
   - 第7週(22/05/08-05/14): 
   - 第8週(22/05/15-05/21): 
   - 第9週(22/05/22-05/28): 
