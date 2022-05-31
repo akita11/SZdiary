@@ -20,7 +20,8 @@ Sabattical Diary (2022/4-9) in Shenzhen
   - 第3週(22/04/10-04/16): [日常](diary/diary/2204-3.md) / [研究](diary/research/2204-3.md) / [コロナ関連](diary/covid19/2204-3.md) / [中国語勉強](diary/chinese/2204-3.md)
   - 第4週(22/04/17-04/23): [日常](diary/diary/2204-4.md) / [研究](diary/research/2204-4.md) / [コロナ関連](diary/covid19/2204-4.md) / [中国語勉強](diary/chinese/2204-4.md)
   - 第5週(22/04/24-04/30): [日常](diary/diary/2204-5.md) / [研究](diary/research/2204-5.md) / [コロナ関連](diary/covid19/2204-5.md) / [中国語勉強](diary/chinese/2204-5.md)
-  - 第6週(22/05/01-05/07): [日常](diary/diary/2205-1.md) / [研究](diary/research/2205-1.md) / [コロナ関連](diary/covid19/2205-1.md) / [中国語勉強](diary/chinese/2205-1.md)
+- 2022年5月
+ - 第6週(22/05/01-05/07): [日常](diary/diary/2205-1.md) / [研究](diary/research/2205-1.md) / [コロナ関連](diary/covid19/2205-1.md) / [中国語勉強](diary/chinese/2205-1.md)
   - 第7週(22/05/08-05/14): [日常](diary/diary/2205-2.md) / [研究](diary/research/2205-2.md) / [コロナ関連](diary/covid19/2205-2.md) / [中国語勉強](diary/chinese/2205-2.md)
   - 第8週(22/05/15-05/21): [日常](diary/diary/2205-3.md) / [研究](diary/research/2205-3.md) / [コロナ関連](diary/covid19/2205-3.md) / [中国語勉強](diary/chinese/2205-3.md)
   - 第9週(22/05/22-05/28): [日常](diary/diary/2205-4.md) / [研究](diary/research/2205-4.md) / [コロナ関連](diary/covid19/2205-4.md) / [中国語勉強](diary/chinese/2205-4.md)
@@ -28,7 +29,8 @@ Sabattical Diary (2022/4-9) in Shenzhen
 
 ***
 （以下、予定）
- - 第11週(22/06/05-06/11): [日常](diary/diary/2206-1.md) / [研究](diary/research/2206-1.md) / [コロナ関連](diary/covid19/2206-1.md) / [中国語勉強](diary/chinese/2206-1.md)
+- 2022年6月
+  - 第11週(22/06/05-06/11): [日常](diary/diary/2206-1.md) / [研究](diary/research/2206-1.md) / [コロナ関連](diary/covid19/2206-1.md) / [中国語勉強](diary/chinese/2206-1.md)
   - 第12週(22/06/12-06/18): [日常](diary/diary/2206-2.md) / [研究](diary/research/2206-2.md) / [コロナ関連](diary/covid19/2206-2.md) / [中国語勉強](diary/chinese/2206-2.md)
   - 第13週(22/06/19-06/25): [日常](diary/diary/2206-3.md) / [研究](diary/research/2206-3.md) / [コロナ関連](diary/covid19/2206-3.md) / [中国語勉強](diary/chinese/2206-3.md)
   - 第14週(22/06/26-07/02): [日常](diary/diary/2206-4.md) / [研究](diary/research/2206-4.md) / [コロナ関連](diary/covid19/2206-4.md) / [中国語勉強](diary/chinese/2206-4.md)
