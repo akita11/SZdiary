@@ -38,10 +38,10 @@ Sabattical Diary (2022/4-9) in Shenzhen
   - 第18週(22/07/24-07/30): [日常](diary/diary/2207-4.md) / [研究](diary/research/2207-4.md) / [コロナ関連](diary/covid19/2207-4.md) / [中国語勉強](diary/chinese/2207-4.md)
   - 第19週(22/07/31-08/06): [日常](diary/diary/2207-5.md) / [研究](diary/research/2207-5.md) / [コロナ関連](diary/covid19/2207-5.md) / [中国語勉強](diary/chinese/2207-5.md)
   - 第20週(22/08/07-08/13): [日常](diary/diary/2208-1.md) / [研究](diary/research/2208-1.md) / [コロナ関連](diary/covid19/2208-1.md) / [中国語勉強](diary/chinese/2208-1.md)
+  - 第21週(22/08/14-08/20): [日常](diary/diary/2208-2.md) / [研究](diary/research/2208-2.md) / [コロナ関連](diary/covid19/2208-2.md) / [中国語勉強](diary/chinese/2208-2.md)
   
 ***
 （以下、予定）
-  - 第21週(22/08/14-08/20): [日常](diary/diary/2208-2.md) / [研究](diary/research/2208-2.md) / [コロナ関連](diary/covid19/2208-2.md) / [中国語勉強](diary/chinese/2208-2.md)
   - 第22週(22/08/21-08/27): [日常](diary/diary/2208-3.md) / [研究](diary/research/2208-3.md) / [コロナ関連](diary/covid19/2208-3.md) / [中国語勉強](diary/chinese/2208-3.md)
   - 第23週(22/08/28-09/03): [日常](diary/diary/2208-4.md) / [研究](diary/research/2208-4.md) / [コロナ関連](diary/covid19/2208-4.md) / [中国語勉強](diary/chinese/2208-4.md)
   - 第24週(22/09/04-09/10): [日常](diary/diary/2209-1.md) / [研究](diary/research/2209-1.md) / [コロナ関連](diary/covid19/2209-1.md) / [中国語勉強](diary/chinese/2209-1.md)
