@@ -47,6 +47,12 @@ Sabattical Diary (2022/4-9) in Shenzhen
   - 第25週(22/09/11-09/17): [日常](diary/diary/2209-2.md) / [研究](diary/research/2209-2.md) / [コロナ関連](diary/covid19/2209-2.md) / [中国語勉強](diary/chinese/2209-2.md)
   - 第26週(22/09/18-09/24): [日常](diary/diary/2209-3.md) / [研究](diary/research/2209-3.md) / [コロナ関連](diary/covid19/2209-3.md) / [中国語勉強](diary/chinese/2209-3.md)
   
+## 関連記事
+
+- [個人的なまとめ記事「深センに滞在して、見聞きしたこと、経験したこと、考えたこと」](https://note.com/akita11/n/n866effcda43a)
+- [インタビュー記事「金沢大学の秋田教授が体感した深セン「設計・製造・商品化」の街」](https://media.dglab.com/2022/09/22-akita-01/)
+- [インタビュー記事「大学教授がスタートアップのインターン生に——深圳で気づいたMaker文化の重要性」(https://fabcross.jp/interview/20221020_professor_akita.html)
+
 
 ## 大まかなスケジュール
 - 2022/4/11月: 成田→深セン
