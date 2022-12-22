@@ -13,6 +13,9 @@ Sabattical Diary (2022/4-9) in Shenzhen
 - [個人的なまとめ記事「深センに滞在して、見聞きしたこと、経験したこと、考えたこと」](https://note.com/akita11/n/n866effcda43a)
 - [インタビュー記事「金沢大学の秋田教授が体感した深セン「設計・製造・商品化」の街」](https://media.dglab.com/2022/09/22-akita-01/)
 - [インタビュー記事「大学教授がスタートアップのインターン生に——深圳で気づいたMaker文化の重要性」](https://fabcross.jp/interview/20221020_professor_akita.html)
+- [2022/12/18のオンライン報告会](https://akita11sz.peatix.com/view) / [録画](youtube.com/watch?v=8E_lD4fOWC0)・[スライド](https://slideshare.net/junichiakita9/make-254941303)
+
+
 
 
 ## 日記
